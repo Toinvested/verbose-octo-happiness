@@ -1,0 +1,25 @@
+{
+  "title": "AI Rental Property Analyzer: 2025 Investor Playbook",
+  "slug": "ai-rental-property-analyzer-2025",
+  "content": "<h2>Why This Matters</h2><p>Cash flow, DSCR, and market velocity in one dashboard...</p>",
+  "excerpt": "Analyze cash flow, DSCR, and ROI in seconds with ToInvested.",
+  "status": "publish",
+  "author_email": "support@toinvested.com",
+  "categories": ["AI Real Estate", "Rental Investing"],
+  "tags": ["DSCR", "ROI", "Cash Flow", "Predictive Analytics"],
+  "featured_image_url": "https://example.com/images/ai-analyzer-hero.jpg",
+  "focus_keyword": "AI rental property analyzer",
+  "meta_description": "Use ToInvested’s AI Analyzer to estimate rent, evaluate DSCR, and model ROI in under 60 seconds.",
+  "json_ld": {
+    "@context": "https://schema.org",
+    "@type": "TechArticle",
+    "headline": "AI Rental Property Analyzer: 2025 Investor Playbook",
+    "author": {"@type":"Person","name":"David J. Moore, MBA"},
+    "publisher": {"@type":"Organization","name":"ToInvested"},
+    "datePublished": "2025-10-05",
+    "about": ["Real Estate Investing","AI Tools","DSCR","ROI"]
+  }
+}
+
+
+
